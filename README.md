@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm KONG Visal</h1>
-<h3 align="center">A passionate Software Engineering student from CADT</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+KONG+Visal!;A+Software+Engineering+Student+at+CADT;💡+Passionate+about+Innovation+and+Development" alt="Typing SVG" />
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqeHpscGJ5NHlzMnlmeDZxeXFzYmFuenJlY3lubWg1eGl5djd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
+<img align="right" alt="coding" width="370" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqeHpscGJ5NHlzMnlmeDZxeXFzYmFuenJlY3lubWg1eGl5djd3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saltherric&label=Profile%20views&color=0e75b6&style=flat" alt="saltherric" />
 </p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,11 +18,10 @@
 </p>
 
 
-### 🌱 Currently Learning
-- Flutter  
+### 🌱 I’m currently learning **Flutter**
+  
 
-### 📫 Contact Me
-- **Email:** viisall59@gmail.com
+### 📫 How to reach me **viisall59@gmail.com**
 
 ---
 
